@@ -1,0 +1,44 @@
+
+> ai24react@0.0.0 lint
+> eslint .
+
+
+D:\cmp test\ai24Redesingn\ai24React\src\components\CustomCursor.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\cmp test\ai24Redesingn\ai24React\src\components\Footer.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\cmp test\ai24Redesingn\ai24React\src\components\Navbar.jsx
+  3:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\cmp test\ai24Redesingn\ai24React\src\pages\About.jsx
+    2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u                no-unused-vars
+  115:11  error  'bgY' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u          no-unused-vars
+  116:11  error  'opacityHero' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  183:41  error  'i' is defined but never used                                                                no-unused-vars
+  256:11  error  'teamData' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+
+D:\cmp test\ai24Redesingn\ai24React\src\pages\Contact.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\cmp test\ai24Redesingn\ai24React\src\pages\Features.jsx
+   2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u                      no-unused-vars
+   2:43  error  'useSpring' is defined but never used. Allowed unused vars must match /^[A-Z_]/u                   no-unused-vars
+  17:12  error  'hoveredUseCase' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  17:28  error  'setHoveredUseCase' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  89:11  error  'useCases' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u           no-unused-vars
+
+D:\cmp test\ai24Redesingn\ai24React\src\pages\Home.jsx
+   2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u                 no-unused-vars
+  35:11  error  'archRef' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  36:11  error  'showcaseRef' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u   no-unused-vars
+  39:11  error  'bgY' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u           no-unused-vars
+  42:12  error  'activeWhy' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  42:23  error  'setActiveWhy' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\cmp test\ai24Redesingn\ai24React\src\pages\Services.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+✖ 21 problems (21 errors, 0 warnings)
+
